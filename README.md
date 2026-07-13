@@ -4,10 +4,9 @@
 
 - 🎓 Computer Science Engineering Student (2024–2028)
 - 🏫 IFET College of Engineering
-- 🏆 HackElite 2026 Finalist & Team Lead
+- 🏆 HackElite 2026 Finalist | Team Lead
 - 🌱 Currently learning Python, FastAPI, React, AI & Data Analytics
 - 🚀 Interested in building software that solves real-world problems
-- 🎯 Goal: Become an AI Engineer and contribute to impactful technology
 
 ---
 
