@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Nafeeza</h1>
 
 <h3 align="center">
-Computer Science Engineering Student • Learning AI & Full Stack Development
+Computer Science Engineering Student • Learning AI & Full Stack Development </br>
   HackElite 2026 Finalist 🏆
 </h3>
 
